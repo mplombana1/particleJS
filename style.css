@@ -6,7 +6,8 @@ body{
 
 #particles-js{
   background:#4e5663;
-  height: 400px;
+  height: 1300px;
+  width: 100%;
 }
 
 #login{
